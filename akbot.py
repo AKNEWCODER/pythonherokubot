@@ -39,7 +39,7 @@ async def handler(event):
     if chat_id == -1001193143102 :
         await client.send_message(5116249669,event.raw_text)
 
-    if chat_id == 5073819922 :
+    if chat_id == -1001720591606 :
         await client.send_message(5116249669,event.raw_text)
 
 
