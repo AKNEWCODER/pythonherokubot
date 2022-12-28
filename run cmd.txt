@@ -1,1 +1,1 @@
-gunicorn app:app & python3 akbot.py
+gunicorn app:app & python akbot.py
