@@ -22,29 +22,29 @@ async def handler(event):
     if chat_id == -1001475250480  :
     
 
-        await client.send_message(1485109749 ,5116249669 ,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
          
     if chat_id == -1001764616724  :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
 
     if chat_id == -1001385004034  :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
 
 
 
     if chat_id == -1001357275556 :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
 
 
 
     if chat_id == -1001720591606 :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
         
     if chat_id == -1001193143102 :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
         
     if chat_id == -1001315464303 :
-        await client.send_message(5116249669,1485109749,event.raw_text)
+        await client.send_message(1485109749,event.raw_text)
 
 
 
